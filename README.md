@@ -15,12 +15,12 @@
 
 ---
 
-<a href="https://github.com/moirao" title="trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=moirao&column=3&theme=tokyonight" alt="trophy" /></a>
+<a href="https://github.com/moirao" title="trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=moirao&column=8&theme=darkhub" alt="trophy" /></a>
 
 ### 📊 GitHub Stats
 
 ---
 
-<a href="https://github.com/moirao"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=moirao&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/moirao"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=moirao&layout=compact&theme=maroongold&hide_border=true" /></a>
 
-<a href="https://github.com/moirao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moirao&langs_count=8&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/moirao"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moirao&langs_count=8&layout=compact&theme=maroongold&hide_border=true" /></a>
